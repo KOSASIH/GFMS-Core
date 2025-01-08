@@ -1,0 +1,10 @@
+fastapi==0.75.0
+uvicorn==0.17.0
+sqlalchemy==1.4.27
+alembic==1.7.5
+python-dotenv==0.19.2
+cryptography==3.4.8
+passlib==1.7.4
+pydantic==1.9.0
+requests==2.26.0
+python-multipart==0.0.5
