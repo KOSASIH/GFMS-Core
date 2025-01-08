@@ -1,4 +1,4 @@
-# src/database/seed_data.py
+# src/database/migration/seed_data.py
 
 from sqlalchemy.orm import Session
 from src.models.user import User
