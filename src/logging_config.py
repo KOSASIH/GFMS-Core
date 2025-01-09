@@ -4,7 +4,6 @@ import logging
 import os
 
 def setup_logging():
-    """Set up logging configuration."""
     log_level = os.getenv("LOG_LEVEL", "INFO").upper()
     logging.basicConfig(
         level=log_level,
