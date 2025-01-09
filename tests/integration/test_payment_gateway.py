@@ -42,13 +42,3 @@ def test_payment_failure(test_db):
             payment_service.process_payment(sender_id=1, receiver_id=2, amount=2000.0)
         
         assert "Insufficient funds" in str(excinfo.value)
-
-### Summary
-
-These integration tests provide essential coverage for the **Global Financial Management System (GFMS)**:
-
-- **`test_api.py`**: Tests the API endpoints, ensuring that user creation, authentication, and transaction creation work as expected.
-- **`test_database.py`**: Validates database interactions, ensuring that users and accounts can be created and retrieved correctly.
-- **`test_payment_gateway.py`**: Tests the payment gateway interactions, ensuring that payments can be processed successfully and handle failures appropriately.
-
-These tests help ensure that the various components of the application work together seamlessly. If you have any additional features or modifications in mind, feel free to share!
