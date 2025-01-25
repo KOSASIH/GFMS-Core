@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: gfms-core-service
+spec:
+  type: LoadBalancer  # Use NodePort or ClusterIP as needed
+  ports:
+    - port: 80
+      targetPort: 8000
+  selector:
+    app: gfms-core
