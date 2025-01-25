@@ -1,0 +1,37 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: gfms-core-app
+  labels:
+    app: gfms-core
+spec:
+  replicas: 3  # Number of replicas for high availability
+  selector:
+    matchLabels:
+      app: gfms-core
+  template:
+    metadata:
+      labels:
+        app: gfms-core
+    spec:
+      containers:
+        - name: gfms-core
+          image: your-docker-repo/gfms-core:latest  # Replace with your Docker image
+          ports:
+            - containerPort: 8000
+          env:
+            - name: REDIS_HOST
+              value: "redis"  # Assuming Redis is running in the same namespace
+            - name: REDIS_PORT
+              value: "6379"
+            - name: HOST
+              value: "0.0.0.0"
+            - name: PORT
+              value: "8000"
+          resources:
+            requests:
+              memory: "256Mi"
+              cpu: "500m"
+            limits:
+              memory: "512Mi"
+              cpu: "1"
