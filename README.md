@@ -49,6 +49,16 @@
 [![CoinGecko Verified](https://img.shields.io/badge/CoinGecko-Verified-4caf50.svg)](https://www.coingecko.com)
 [![CryptoCompare Approved](https://img.shields.io/badge/CryptoCompare-Approved-2196F3.svg)](https://www.cryptocompare.com)
 [![Ledger Certified](https://img.shields.io/badge/Ledger-Certified-ff9800.svg)](https://www.ledger.com)
+[![Chainlink Verified](https://img.shields.io/badge/Chainlink-Verified-4caf50.svg)](https://chain.link)
+[![Solana Approved](https://img.shields.io/badge/Solana-Approved-2196F3.svg)](https://solana.com)
+[![Avalanche Certified](https://img.shields.io/badge/Avalanche-Certified-ff5722.svg)](https://www.avax.network)
+[![Polygon Approved](https://img.shields.io/badge/Polygon-Approved-4caf50.svg)](https://polygon.technology)
+[![NEO Certified](https://img.shields.io/badge/NEO-Certified-2196F3.svg)](https://neo.org)
+[![Waves Approved](https://img.shields.io/badge/Waves-Approved-ff9800.svg)](https://waves.tech)
+[![Zilliqa Certified](https://img.shields.io/badge/Zilliqa-Certified-3f51b5.svg)](https://zilliqa.com)
+[![Hedera Approved](https://img.shields.io/badge/Hedera-Approved-4caf50.svg)](https://hedera.com)
+[![Algorand Certified](https://img.shields.io/badge/Algorand-Certified-2196F3.svg)](https://www.algorand.com)
+[![Fantom Approved](https://img.shields.io/badge/Fantom-Approved-ff5722.svg)](https://fantom.foundation)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/GFMS-Core">GFMS</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
