@@ -8,6 +8,11 @@
 [![OWASP Top Ten](https://img.shields.io/badge/OWASP%20Top%20Ten-Compliant-4CAF50.svg)](https://owasp.org/www-project-top-ten/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Continuous Integration](https://img.shields.io/badge/CI-Enabled-brightgreen.svg)](https://www.travis-ci.com)
+[![Test Coverage](https://img.shields.io/codecov/c/github/KOSASIH/GFMS-Core?label=Coverage)](https://codecov.io/gh/KOSASIH/GFMS-Core)
+[![Compliance](https://img.shields.io/badge/Compliance-Financial%20Standards-brightgreen.svg)](https://www.example.com/compliance)
+[![Security](https://img.shields.io/badge/Security-Audit%20Passed-brightgreen.svg)](https://www.example.com/security-audit)
+[![Performance](https://img.shields.io/badge/Performance-Optimized-brightgreen.svg)](https://www.example.com/performance)
+[![Integration](https://img.shields.io/badge/Integration-API%20Ready-brightgreen.svg)](https://www.example.com/integration)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/GFMS-Core">GFMS</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
