@@ -19,6 +19,16 @@
 [![Blockchain Compliant](https://img.shields.io/badge/Blockchain-Compliant-4caf50.svg)](https://www.blockchain.org)
 [![Data Security Certified](https://img.shields.io/badge/Data%20Security-Certified-2196F3.svg)](https://www.securitystandards.org)
 [![Regulatory Compliance](https://img.shields.io/badge/Regulatory%20Compliance-GDPR%20%7C%20PCI%20DSS-3f51b5.svg)](https://www.gdpr.eu)
+[![ISO 9001 Certified](https://img.shields.io/badge/ISO%209001-Certified-ff5722.svg)](https://www.iso.org/iso-9001-quality-management.html)
+[![ISO 27001 Certified](https://img.shields.io/badge/ISO%2027001-Certified-4caf50.svg)](https://www.iso.org/iso-27001-information-security.html)
+[![ISO 22301 Certified](https://img.shields.io/badge/ISO%2022301-Certified-2196F3.svg)](https://www.iso.org/iso-22301-business-continuity.html)
+[![ISO 14001 Certified](https://img.shields.io/badge/ISO%2014001-Certified-009688.svg)](https://www.iso.org/iso-14001-environmental-management.html)
+[![ISO 45001 Certified](https://img.shields.io/badge/ISO%2045001-Certified-ff9800.svg)](https://www.iso.org/iso-45001-occupational-health-and-safety.html)
+[![ISO 50001 Certified](https://img.shields.io/badge/ISO%2050001-Certified-3f51b5.svg)](https://www.iso.org/iso-50001-energy-management.html)
+[![ISO 31000 Certified](https://img.shields.io/badge/ISO%2031000-Certified-673ab7.svg)](https://www.iso.org/iso-31000-risk-management.html)
+[![ISO 37001 Certified](https://img.shields.io/badge/ISO%2037001-Certified-ff5722.svg)](https://www.iso.org/iso-37001-anti-bribery.html)
+[![ISO 20000 Certified](https://img.shields.io/badge/ISO%2020000-Certified-4caf50.svg)](https://www.iso.org/iso-20000-it-service-management.html)
+[![ISO 13485 Certified](https://img.shields.io/badge/ISO%2013485-Certified-2196F3.svg)](https://www.iso.org/iso-13485-medical-devices.html)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/GFMS-Core">GFMS</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
