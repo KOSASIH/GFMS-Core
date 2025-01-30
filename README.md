@@ -58,6 +58,23 @@
 [![Hedera Approved](https://img.shields.io/badge/Hedera-Approved-4caf50.svg)](https://hedera.com)
 [![Algorand Certified](https://img.shields.io/badge/Algorand-Certified-2196F3.svg)](https://www.algorand.com)
 [![Fantom Approved](https://img.shields.io/badge/Fantom-Approved-ff5722.svg)](https://fantom.foundation)
+[![Celo Certified](https://img.shields.io/badge/Celo-Certified-4caf50.svg)](https://celo.org)
+[![Kusama Approved](https://img.shields.io/badge/Kusama-Approved-2196F3.svg)](https://kusama.network)
+[![Ravencoin Certified](https://img.shields.io/badge/Ravencoin-Certified-ff9800.svg)](https://ravencoin.org)
+[![Stellar Approved](https://img.shields.io/badge/Stellar-Approved-3f51b5.svg)](https://www.stellar.org)
+[![VeChain Certified](https://img.shields.io/badge/VeChain-Certified-4caf50.svg)](https://www.vechain.org)
+[![NEM Approved](https://img.shields.io/badge/NEM-Approved-2196F3.svg)](https://nem.io)
+[![Ontology Certified](https://img.shields.io/badge/Ontology-Certified-ff5722.svg)](https://ont.io)
+[![Qtum Approved](https://img.shields.io/badge/Qtum-Approved-4caf50.svg )](https://qtum.org)
+[![Holochain Certified](https://img.shields.io/badge/Holochain-Certified-2196F3.svg)](https://holochain.org)
+[![Nervos Approved](https://img.shields.io/badge/Nervos-Approved-ff9800.svg)](https://www.nervos.org)
+[![FIO Protocol Certified](https://img.shields.io/badge/FIO%20Protocol-Certified-3f51b5.svg)](https://fio.foundation)
+[![Celo Approved](https://img.shields.io/badge/Celo-Approved-4caf50.svg)](https://celo.org)
+[![Wanchain Certified](https://img.shields.io/badge/Wanchain-Certified-2196F3.svg)](https://wanchain.org)
+[![Zcash Approved](https://img.shields.io/badge/Zcash-Approved-ff5722.svg)](https://z.cash)
+[![Secret Network Certified](https://img.shields.io/badge/Secret%20Network-Certified-4caf50.svg)](https://scrt.network)
+[![Arweave Approved](https://img.shields.io/badge/Arweave-Approved-2196F3.svg)](https://www.arweave.org)
+[![Stacks Certified](https://img.shields.io/badge/Stacks-Certified-ff9800.svg)](https://www.stacks.co)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/GFMS-Core">GFMS</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
