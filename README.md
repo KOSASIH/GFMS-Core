@@ -19,7 +19,6 @@
 [![Blockchain Compliant](https://img.shields.io/badge/Blockchain-Compliant-4caf50.svg)](https://www.blockchain.org)
 [![Data Security Certified](https://img.shields.io/badge/Data%20Security-Certified-2196F3.svg)](https://www.securitystandards.org)
 [![Regulatory Compliance](https://img.shields.io/badge/Regulatory%20Compliance-GDPR%20%7C%20PCI%20DSS-3f51b5.svg)](https://www.gdpr.eu)
-[![ISO 9001 Certified](https://img.shields.io/badge/ISO%209001-Certified-ff5722.svg)](https://www.iso.org/iso-9001-quality-management.html)
 [![ISO 27001 Certified](https://img.shields.io/badge/ISO%2027001-Certified-4caf50.svg)](https://www.iso.org/iso-27001-information-security.html)
 [![ISO 22301 Certified](https://img.shields.io/badge/ISO%2022301-Certified-2196F3.svg)](https://www.iso.org/iso-22301-business-continuity.html)
 [![ISO 14001 Certified](https://img.shields.io/badge/ISO%2014001-Certified-009688.svg)](https://www.iso.org/iso-14001-environmental-management.html)
