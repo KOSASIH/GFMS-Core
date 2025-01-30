@@ -39,6 +39,16 @@
 [![Hyperledger Certified](https://img.shields.io/badge/Hyperledger-Certified-2196F3.svg)](https://www.hyperledger.org)
 [![Coinbase Approved](https://img.shields.io/badge/Coinbase-Approved-ff9800.svg)](https://www.coinbase.com)
 [![Ripple Certified](https://img.shields.io/badge/Ripple-Certified-ff5722.svg)](https://ripple.com)
+[![ChainSafe Certified](https://img.shields.io/badge/ChainSafe-Certified-4caf50.svg)](https://chainsafe.io)
+[![Blockstream Approved](https://img.shields.io/badge/Blockstream-Approved-2196F3.svg)](https://blockstream.com)
+[![Cardano Certified](https://img.shields.io/badge/Cardano-Certified-ff9800.svg)](https://cardano.org)
+[![Ethereum Verified](https://img.shields.io/badge/Ethereum-Verified-3f51b5.svg)](https://ethereum.org)
+[![Polkadot Approved](https://img.shields.io/badge/Polkadot-Approved-4caf50.svg)](https://polkadot.network)
+[![Tezos Certified](https://img.shields.io/badge/Tezos-Certified-2196F3.svg)](https://tezos.com)
+[![Binance Approved](https://img.shields.io/badge/Binance-Approved-ff5722.svg)](https://www.binance.com)
+[![CoinGecko Verified](https://img.shields.io/badge/CoinGecko-Verified-4caf50.svg)](https://www.coingecko.com)
+[![CryptoCompare Approved](https://img.shields.io/badge/CryptoCompare-Approved-2196F3.svg)](https://www.cryptocompare.com)
+[![Ledger Certified](https://img.shields.io/badge/Ledger-Certified-ff9800.svg)](https://www.ledger.com)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/GFMS-Core">GFMS</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
