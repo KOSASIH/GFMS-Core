@@ -1,0 +1,37 @@
+import boto3
+from cryptography.hazmat.primitives import serialization
+
+# Inisialisasi AWS CloudHSM client
+hsm_client = boto3.client('cloudhsm', region_name='us-east-1')
+
+# Membuat Kunci RSA dalam HSM
+def generate_hsm_key():
+    response = hsm_client.create_key(
+        CustomerMasterKeySpec='RSA_2048',
+        KeyUsage='ENCRYPT_DECRYPT'
+    )
+    return response['KeyMetadata']['KeyId']
+
+# Menggunakan kunci dari HSM untuk enkripsi
+def encrypt_with_hsm(key_id, plaintext):
+    response = hsm_client.encrypt(
+        KeyId=key_id,
+        Plaintext=plaintext.encode()
+    )
+    return response['CiphertextBlob']
+
+# Dekripsi dengan HSM
+def decrypt_with_hsm(key_id, ciphertext_blob):
+    response = hsm_client.decrypt(
+        KeyId=key_id,
+        CiphertextBlob=ciphertext_blob
+    )
+    return response['Plaintext'].decode()
+
+# Contoh penggunaan
+key_id = generate_hsm_key()
+ciphertext = encrypt_with_hsm(key_id, "Pesan Rahasia")
+print("Ciphertext:", ciphertext)
+
+plaintext = decrypt_with_hsm(key_id, ciphertext)
+print("Decrypted:", plaintext)
